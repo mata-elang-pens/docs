@@ -6,9 +6,9 @@
 
 > Network IDS Monitoring Project
 
-- Built using Docker
-- Can be scaled up
-- Multiple sensor*
+- Dockerized
+- Scalable
+- Multi-sensor*
 
 [GitHub](https://github.com/mata-elang-pens)
 [Get Started](#mata-elang-project)
