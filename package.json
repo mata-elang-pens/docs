@@ -1,0 +1,22 @@
+{
+  "name": "mata-elang-pens",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Fadhil Yori Hibatullah <fadhil4812@gmail.com>",
+  "contributors": [],
+  "license": "MIT",
+  "scripts": {
+    "start": "docsify serve ."
+  },
+  "dependencies": {
+    "docsify-cli": "^4.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mata-elang-pens/docs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mata-elang-pens/docs/issues"
+  },
+  "homepage": "https://github.com/mata-elang-pens/docs#readme"
+}
